@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif">
+</p>
 
 <!--
 **Vishallas/Vishallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
-  <img src="https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif" />
-</div>
 
-<!--display: block;margin-left: auto;margin-right: auto;width: 50%;-->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif">
-</p>
+
