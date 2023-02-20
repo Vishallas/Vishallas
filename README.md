@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif" align="center" />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+<div style="text-align:center">
+  <img src="https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif" />
+</div>
