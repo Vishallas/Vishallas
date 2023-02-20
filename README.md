@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--display: block;margin-left: auto;margin-right: auto;width: 50%;-->
+<p align="center">
+  <img width="460" height="300" src="https://i.pinimg.com/originals/85/27/70/8527706053a4d46fbc1042229f12a06e.gif">
+</p>
