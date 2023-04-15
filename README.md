@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center" width="50">   
-        <img src="Resources/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+        <img src="main/Resources/dev-working_rounded.gif?raw=true" href="https://github.com/Vishallas" alt="bruuuuuh..."  width="60%"/><br> 
 </div>
 
 ## About me 🙌
