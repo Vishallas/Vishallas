@@ -62,9 +62,8 @@ Welcome to my GitHub corner! I'm just a regular young developer on a mission to 
 ---
 
 ## 💬 Hit Me Up:
-- [LinkedIn](https://www.linkedin.com/in/your-profile) (let's make connections! 🌐)
-- [Twitter](https://twitter.com/your-profile) (for random tech musings and occasional memes 😂)
-- [GitHub](https://github.com/your-profile) (because you're already here, might as well check out some code 😄)
+- [LinkedIn](https://www.linkedin.com/in/vishalsaravanan) (let's make connections! 🌐)
+- [GitHub](https://github.com/Vishallas) (because you're already here, might as well check out some code 😄)
 
 Let’s team up, break some code, and maybe fix it later! 💥🔧😁
 
